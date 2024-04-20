@@ -3,7 +3,7 @@ Library           RequestsLibrary
 Library           Collections
 
 *** Variables ***
-${API_KEY}    AIzaSyA9WsrlY4NQ4ot5FZdzncLDhdDBnrH5ri0
+${API_KEY}    
 ${BASE_URL}    https://www.googleapis.com/youtube/v3
 
 *** Test Cases ***
